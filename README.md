@@ -23,4 +23,4 @@
 - [source](https://github.com/RamziBach/Building-a-portfolio-website)
 
 ### Screenshots
-- [screenshot1](/public/screenshots/Screenshot1.png)
+- [screenshot1](../public/screenshots/Screenshot1.png)
